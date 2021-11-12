@@ -2,6 +2,24 @@
 
 This repository contains the artifacts attached to the paper "_Confidence-driven Weighted Retraining for Predicting Safety-Critical Failures in Autonomous Driving Systems_" by Andrea Stocco (USI) and Paolo Tonella (USI).
 
+## Reference
+
+If you use our work in your research, or it helps it, or if you simply like it, please cite SelfOracle in your publications. 
+Here is an example BibTeX entry:
+
+```
+@article{2021-Stocco-JSEP,
+  author = {Andrea Stocco and Paolo Tonella},
+  title = {Confidence-driven Weighted Retraining for Predicting Safety-Critical Failures in Autonomous Driving Systems},
+  journal = {Journal of Software: Evolution and Process},
+  pages = {},
+  publisher = {John Wiley & Sons},
+  url = {https://doi.org/10.1002/smr.2386},
+  doi = {10.1002/smr.2386},
+  year = {2021}
+}
+```
+
 ## Simulation platform
 
 You need to clone [this version of the Udacity simulator  for self-driving cars](https://github.com/tsigalko18/udacity-self-driving-car/tree/mc-dropout). 
