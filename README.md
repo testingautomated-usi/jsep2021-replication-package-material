@@ -4,7 +4,7 @@ This repository contains the artifacts attached to the paper "_Confidence-driven
 
 ## Reference
 
-If you use our work in your research, or it helps it, or if you simply like it, please cite SelfOracle in your publications. 
+If you use our work in your research, or it helps it, or if you simply like it, please cite it in your publications. 
 Here is an example BibTeX entry:
 
 ```
